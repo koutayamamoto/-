@@ -4,7 +4,7 @@ var font;
 
 var textTyped = '猛暑\n炸裂';
 var drawMode = 1;
-var fontSize = 300;
+var fontSize = 350;
 var padding = 10;
 var nOff = 0;
 var pointDensity = 8;
